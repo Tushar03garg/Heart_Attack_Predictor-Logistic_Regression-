@@ -1,4 +1,3 @@
-# Heart_Attack_Predictor-Logistic_Regression-
 # Heart Attack Prediction using Logistic Regression
 
 ## Project Overview
